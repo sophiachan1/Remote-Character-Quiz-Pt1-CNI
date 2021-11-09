@@ -1,0 +1,93 @@
+h1,
+h2 {
+    text-align: center;
+    font-family: bebas neue;
+}
+
+h3 {
+    text-align: center;
+    font-family: ubuntu condensed;
+}
+
+.poster {
+    height: 450px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #7195f0;
+
+}
+
+.collection {
+    display: none;
+}
+
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gif1 {
+    height: 150px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.gif2 {
+    height: 150px;
+    width: 250px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gif3 {
+    height: 100px;
+    width: 250px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vote-result {
+    text-align: center;
+    font-family: alata;
+    border: 5px solid #a88308;
+    padding: 5px;
+    background-color: #f0c022;
+    margin: 15px;
+    display: none;
+}
+
+.intro {
+    background-color: #c8c8c8;
+    padding: 10px;
+}
+
+.collectVote {
+    border: 5px solid #680000;
+    padding: 5px;
+    background-color: #c22b2b;
+    margin: 15px;
+}
+
+.collectAnswer {
+    border: 5px solid #0300ff;
+    padding: 5px;
+    background-color: #356af0;
+    margin: 15px;
+}
